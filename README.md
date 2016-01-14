@@ -12,4 +12,4 @@ As the angular-seed project, this project doesn't do much, just integrate the tw
 
 To get you started, just visit the [angular-seed](https://github.com/angular/angular-seed) prjects, the steps is all the same.
 
-For inpatient readers, just run `npm install && npm start` will be helpfull.
+For impatient readers, just run `npm install && npm start` will be helpfull.
